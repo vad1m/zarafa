@@ -1,7 +1,6 @@
 #!/bin/sh
 
 # script for creating 'all@company.com' alias for Zarafa
-# (c) 2013 vadim.chumachenko@gmail.com
 
 # Install:
 # 1. Place script on the zarafa server
